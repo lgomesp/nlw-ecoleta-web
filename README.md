@@ -1,3 +1,5 @@
+![Ecoleta - Projeto de Marketplace de Coleta de Resíduos](https://github.com/lgomesp/nlw-ecoleta-web/blob/master/README_Cover.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
